@@ -19,8 +19,8 @@ Gallery, Book a table, Privacy, plus the `/staff/` booking diary.
 
 ## Still to do
 
-1. **Domain** — config says `brewbaker.ie` as a placeholder. Set the real one
-   (it drives canonical URLs, sitemap, email links) and update `robots.txt`.
+1. **Domain** — confirmed as `brewbaker.ie` (config, robots.txt, sitemap and
+   email links all use it). Point the domain at Hostinger and turn on SSL.
 2. **Menu** — get the real menu board, add prices and allergen codes, then flip
    `$site['show_prices']` to true.
 3. **Phone / email** — fill in `$site['phone']` / `$site['email']` if they want them shown.

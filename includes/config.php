@@ -6,7 +6,7 @@
 
 $site = [
     'name'      => 'Brewbaker Café',
-    'domain'    => 'brewbaker.ie',   // CHECK: set to the real domain before going live
+    'domain'    => 'brewbaker.ie',
     'instagram' => 'https://www.instagram.com/brewbakercafe1/',
 
     // Contact details (they appear in the footer and on the home page)
